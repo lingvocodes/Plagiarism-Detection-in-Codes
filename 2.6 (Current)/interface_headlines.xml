@@ -1,0 +1,103 @@
+<?xml version="1.0"?>
+<texts>
+<class name="T">
+<text title="mainwin_name" lang="RUS">Plagiarism Detector</text>
+<text title="filewindow" lang="RUS">Файлы:</text>
+<text title="dirwindow" lang="RUS">Папки:</text>
+<text title="output" lang="RUS">Результаты:</text>
+<text title="exitbutton" lang="RUS">Выход</text>
+<text title="gobutton" lang="RUS">Проверить</text>
+<text title="choosefilebutton" lang="RUS">Выбрать файлы</text>
+<text title="choosedirbutton" lang="RUS">Выбрать папку</text>
+<text title="nonullf" lang="RUS">Выбрать ещё файлы</text>
+<text title="nonulld" lang="RUS">Выбрать ещё папку</text>
+<text title="errorline" lang="RUS">Ошибка</text>
+<text title="repeat" lang="RUS">Повторить</text>
+<text title="nofiletext" lang="RUS">Вы ещё не выбрали ни одного файла.</text>
+<text title="nodirtext" lang="RUS">Вы ещё не выбрали ни одной папки.</text>
+<text title="mainwin_name" lang="ENG"></text>
+<text title="filewindow" lang="ENG"></text>
+<text title="dirwindow" lang="ENG"></text>
+<text title="output" lang="ENG"></text>
+<text title="exitbutton" lang="ENG"></text>
+<text title="gobutton" lang="ENG"></text>
+<text title="choosefilebutton" lang="ENG"></text>
+<text title="choosedirbutton" lang="ENG"></text>
+<text title="nonullf" lang="ENG"></text>
+<text title="nonulld" lang="ENG"></text>
+<text title="errorline" lang="ENG"></text>
+<text title="repeat" lang="ENG">Check again</text>
+<text title="nofiletext" lang="ENG"></text>
+<text title="nodirtext" lang="ENG"></text>
+</class>
+<class name="M">
+<text title="fileroot" lang="RUS">Файл</text>
+<text title="windowroot" lang="RUS">Управление окнами</text>
+<text title="watchmode" lang="RUS">Режим параллельного просмотра</text>
+<text title="settingroot" lang="RUS">Настройки</text>
+<text title="file_save" lang="RUS">Сохранить результаты проверки</text>
+<text title="window_clearfiles" lang="RUS">Очистить список файлов</text>
+<text title="window_clearoutput" lang="RUS">Очистить окно результатов</text>
+<text title="window_clearall" lang="RUS">Очистить все поля</text>
+<text title="setting_fonts" lang="RUS">Шрифты</text>
+<text title="setting_parameters" lang="RUS">Выбор параметров проверки</text>
+<text title="fileroot" lang="ENG"></text>
+<text title="windowroot" lang="ENG"></text>
+<text title="settingroot" lang="ENG"></text>
+<text title="file_save" lang="ENG"></text>
+<text title="window_clearfiles" lang="ENG"></text>
+<text title="window_clearoutput" lang="ENG"></text>
+<text title="window_clearall" lang="ENG"></text>
+<text title="setting_fonts" lang="ENG"></text>
+<text title="setting_parameters" lang="ENG"></text>
+<text title="watchmode" lang="ENG">Comparison mode</text>
+</class>
+<class name="S">
+<text title="percent" lang="RUS">Показывать результаты с совпадением не менее: </text>
+<text title="difference" lang="RUS">Максимальная разница: </text>
+<text title="len" lang="RUS">Минимальная длина файла: </text>
+<text title="percent" lang="ENG"></text>
+<text title="difference" lang="ENG"></text>
+<text title="percent" lang="ENG"></text>
+</class>
+<class name="H">
+<text title="read" lang="RUS">обработано файлов</text>
+<text title="notread" lang="RUS">не прочитаны</text>
+<text title="allread_msg" lang="RUS">все файлы успешно считаны</text>
+<text title="regexps" lang="RUS">регулярные выражения</text>
+<text title="r1" lang="RUS">полностью совпадающие</text>
+<text title="r2" lang="RUS">частично совпадающие</text>
+<text title="r3" lang="RUS">схожие по структуре</text>
+<text title="r4" lang="RUS">состоящие из схожих по структуре фрагментов</text>
+<text title="contain" lang="RUS">содержат</text>
+<text title="nore" lang="RUS">не проверялись</text>
+<text title="comments" lang="RUS">комментарии</text>
+<text title="nocomment" lang="RUS">схожих комментариев не найдено</text>
+<text title="notfound" lang="RUS">схожих не найдено</text>
+<text title="check" lang="RUS">совпадения в коде</text>
+<text title="full" lang="RUS">полностью идентичны</text>
+<text title="partial" lang="RUS">схожи</text>
+<text title="link" lang="RUS">и</text>
+<text title="id_parts" lang="RUS">содержат полностью идентичные части</text>
+<text title="nopl" lang="RUS">весь код оригинален</text>
+<text title="read" lang="ENG"></text>
+<text title="notread" lang="ENG"></text>
+<text title="allread_msg" lang="ENG"></text>
+<text title="regexps" lang="ENG"></text>
+<text title="r1" lang="ENG"></text>
+<text title="r2" lang="ENG"></text>
+<text title="r3" lang="ENG"></text>
+<text title="r4" lang="ENG"></text>
+<text title="contain" lang="ENG"></text>
+<text title="nore" lang="ENG"></text>
+<text title="comments" lang="ENG"></text>
+<text title="nocomment" lang="ENG"></text>
+<text title="notfound" lang="ENG"></text>
+<text title="check" lang="ENG"></text>
+<text title="full" lang="ENG"></text>
+<text title="partial" lang="ENG"></text>
+<text title="link" lang="ENG"></text>
+<text title="id_parts" lang="ENG"></text>
+<text title="nopl" lang="ENG"></text>
+</class>
+</texts>
